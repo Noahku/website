@@ -72,3 +72,7 @@ $(document).ready(function(){
     });
 });
 
+function openWebsite (){
+    window.open("https://api.whatsapp.com/send/?phone=%2B6283831367505&text=halo+admin+sayamau+beli+vps&type=phone_number&app_absent=0","_blank")
+}
+
